@@ -14,3 +14,4 @@ multiWifiConnect.connectAttempt()
 led.value(0)
 
 #downloaded form github
+#edited on Git Desktop
